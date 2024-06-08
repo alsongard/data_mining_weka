@@ -1,0 +1,13 @@
+Degree,Univ,Letter,Expr
+First,UON,Good,Yes
+First,UON,Good,No
+First,MOI,Bad,No
+Second,UON,Good,Yes
+Second,MOI,Good,No
+Second,KU,Good,Yes
+Second,KU,Good,No
+Second,UON,Good,No
+Pass,MOI,Bad,Yes
+Pass,UON,Bad,No
+Pass,KU,Good,No
+Pass,KU,Good,No

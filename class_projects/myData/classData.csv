@@ -1,0 +1,21 @@
+@ATTRIBUTE ZU
+@ATTRIBUTE Outlook{Sunny,Overcast,Rain}
+@ATTRIBUTE Temp real
+@ATTRIBUTE Humidity real
+@ATTRIBUTE Windy{yes,no}
+@ATTRIBUTE Class{Play,DontPlay}
+
+@DATA
+Outlook,Temp,Humidity,Windy,Class
+Sunny,75,70,yes,Play
+Sunny,80,90,yes,DontPlay
+Sunny,85,85,no,DontPlay
+Sunny,72,95,no,DontPlay
+Overcast,69,70,no,Play
+Overcast,72,90,yes,Play
+Overcast,83,78,no,Play
+Overcast,64,65,yes,Play
+Rain,81,74,no,Play
+Rain,71,80,yes,DontPlay
+Rain,65,70,yes,DontPlay
+Rain,68,80,yes,Play
