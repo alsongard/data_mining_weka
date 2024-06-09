@@ -12,7 +12,7 @@ Extract relevant data features from the accident.csv file  which are:
 
 >> | Features         | Present  |
 >> | :---              | ---:     |
->> | Location         | - [x]      |
+>> | Location         | - [x] present     |
 >> |  Time            |  - [x]      |
 >> |  Weather         |  - [x]     |
 >> |  Road Conditions | - [x]      |
@@ -31,3 +31,8 @@ Urban_or_Rural data the values are represented with the following properties:
 >>|  Rural       |  2      |
 >>|  Other       |  3      |
 
+- [x] Mercury
+- [x] Venus
+- [x] Earth
+- [x] Mars
+- [ ] Jupiter
