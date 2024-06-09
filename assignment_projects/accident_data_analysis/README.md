@@ -10,14 +10,12 @@ The accident.csv file will be checked for any missing values or inconsistencies 
 Data will be acquired from [Uk traffic accidents](https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales/data?select=accidents_2005_to_2007.csv)  
 Extract relevant data features from the accident.csv file  which are:  
 
->> | Features         | Present  |
->> | :---              | ---:     |
->> | Location         | - [x] present     |
->> |  Time            |  - [x]      |
->> |  Weather         |  - [x]     |
->> |  Road Conditions | - [x]      |
->> |  Vehicle Types   | - [x]      |
->> |  Injury Severity | - [x]      |
+>> - [x] Location
+>> - [x] Time
+>> - [x] Weather
+>> - [x] Read Conditions
+>> - [x] Vehicle Types
+>> - [x] Injury Severity
 
 Other Features added are :  
 * Urban or Rural Road
@@ -31,8 +29,11 @@ Urban_or_Rural data the values are represented with the following properties:
 >>|  Rural       |  2      |
 >>|  Other       |  3      |
 
-- [x] Mercury
-- [x] Venus
-- [x] Earth
-- [x] Mars
-- [ ] Jupiter
+<!-- >> | Features         | Present  |
+>> | :---              | ---:     |
+>> | Location         | - [x] present     |
+>> |  Time            |  - [x]      |
+>> |  Weather         |  - [x]     |
+>> |  Road Conditions | - [x]      |
+>> |  Vehicle Types   | - [x]      |
+>> |  Injury Severity | - [x]      | -->
